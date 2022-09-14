@@ -1,5 +1,5 @@
 # Intro to JS Array Methods 
-In this repo, we will be working through increasing knowledge in JS array methods by refactoring a Reference app.
+In this repo, we will be working through increasing knowledge in JS array methods by refactoring a Wishlist app.
 
 <a target="_blank" href="https://blackexcellenceref.netlify.app/">View Demo App</a>
 
